@@ -1,0 +1,11 @@
+ID,Nom,Age,Genre,Diagnostic,Date_Admission,Date_Sortie,Cout
+1,Ahmed,32,Homme,Grippe,2025-03-01,2025-03-03,120
+2,Sara,45,Femme,Diabète,2025-02-15,2025-02-28,850
+3,Khaled,29,Homme,Fracture,2025-04-10,2025-04-18,1600
+4,Lina,60,Femme,Hypertension,2025-01-05,2025-01-20,940
+5,Amine,37,Homme,Appendicite,2025-05-22,2025-05-29,2200
+6,Imane,26,Femme,Allergie,2025-06-10,2025-06-12,300
+7,Omar,54,Homme,Cardiopathie,2025-03-07,2025-03-20,3100
+8,Nadia,41,Femme,Pneumonie,2025-07-15,2025-07-25,1750
+9,Hakim,35,Homme,Infection,2025-02-01,2025-02-05,600
+10,Soukaina,48,Femme,Migraine,2025-08-02,2025-08-03,200
